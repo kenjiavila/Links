@@ -1,6 +1,6 @@
 
 /* The information type */ 
-hello
+
 #define SENDER_DATA_TYPE 1
 
 /* The done message */
